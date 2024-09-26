@@ -1,4 +1,4 @@
 <?php
-echo "hahahahahhahahahahahahhaq"
-
+echo "hahahahahhahahahahahahhaq";
+echo "ez";
 ?>
